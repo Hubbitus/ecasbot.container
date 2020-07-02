@@ -4,3 +4,4 @@ Used [COPR](https://copr.fedorainfracloud.org) repo [xvitaly/ecrepo](https://cop
 
 # This is automated build
 
+Please look tat [docker hub](https://hub.docker.com/repository/docker/hubbitus/ecasbot) for latest images
